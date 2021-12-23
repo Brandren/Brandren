@@ -47,7 +47,7 @@
 
 ### GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandren&show_icons=true&locale=en&layout=compact" width = "50%" alt="Brandren-top-langs" /></p>
-<p><img align="left" padding="10px" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" width = "50%" alt="Brandren-github-stat" /></p>
+<p><img align="left" style="border:5px solid black" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" width = "50%" alt="Brandren-github-stat" /></p>
 
 
 [repo]: https://github.com/Brandren?tab=repositories
