@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/Brandren/Brandren/blob/master/Hi.gif" height="55px" width="55px">, I'm Ng Jing Ping - aka <strong>Brandren</strong></h1>
 <h3 align="center">≧◉◡◉≦
 
-Computer Science Student of Swinburne University of Technology Sarawak Campus
+<br />Computer Science Student of Swinburne University of Technology Sarawak Campus
 
 </h3>
 
@@ -14,7 +14,6 @@ Computer Science Student of Swinburne University of Technology Sarawak Campus
 - ⚡ I’m looking to collaborate with other people
 
 <br />
----
 
 ### Languages and Tools:
 <p align="left">
@@ -45,8 +44,9 @@ Computer Science Student of Swinburne University of Technology Sarawak Campus
 ---
 
 ### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandren&show_icons=true&locale=en&layout=compact" alt="Brandren-top-langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandren&show_icons=true&locale=en&layout=compact" width = "50%" alt="Brandren-top-langs" /></p>
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" width = "50%" alt="Brandren-github-stat" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" alt="Brandren-github-stat" /></p>
 
 [repo]: https://github.com/Brandren?tab=repositories
