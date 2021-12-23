@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/noobmahbub/noobmahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Ng Jing Ping - aka <strong>Brandren</strong></h1>
+<h1 align="center">Hi <img src="https://github.com/Brandren/Brandren/blob/master/Hi.gif" height="55px" width="55px">, I'm Ng Jing Ping - aka <strong>Brandren</strong></h1>
 <h3 align="center">≧◉◡◉≦
 
 Computer Science Student of Swinburne University of Technology Sarawak Campus
@@ -8,20 +8,10 @@ Computer Science Student of Swinburne University of Technology Sarawak Campus
 
 ## I'm a Computer Science Student!!!
 
-- 🔭 I just upload my github repository: [Click Here!][repo]!
+- 🔭 I just upload my github repository: [Click Here !!!][repo]!
 - 🌱 I’m currently learning everything 😆
 - 🥅 2022 Goals: Improve my programming skills
 - ⚡ I’m looking to collaborate with other people
-
-<br />
----
-
-### Profile Visitors:
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Brandren.visitor-badge&left_color=blue&right_color=yellow)
-
-<br />
-
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brandren&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Brandren/github-readme-activity-graph)
 
 <br />
 ---
@@ -44,9 +34,19 @@ Computer Science Student of Swinburne University of Technology Sarawak Campus
 <br />
 ---
 
+### Profile Visitors:
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Brandren.visitor-badge&left_color=blue&right_color=yellow)
+
+<br />
+
+[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brandren&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Brandren/github-readme-activity-graph)
+
+<br />
+---
+
 ### GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandren&show_icons=true&locale=en&layout=compact" alt="Brandren-top-langs" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" alt="Brandren-github-stat" /></p>
 
 [repo]: https://github.com/Brandren?tab=repositories
