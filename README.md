@@ -32,6 +32,10 @@
 
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandren&show_icons=true&locale=en&layout=compact" width = "50%" alt="Brandren-top-langs" /></p>
+
+<br />
+
 ---
 
 ### Profile Visitors:
@@ -46,12 +50,6 @@
 ---
 
 ### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandren&show_icons=true&locale=en&layout=compact" width = "50%" alt="Brandren-top-langs" /></p>
-
-<br />
-
----
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" width = "50%" alt="Brandren-github-stat" /></p>
 
 
