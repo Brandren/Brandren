@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Brandren/Brandren/blob/master/Hi.gif" height="55px" width="55px">, I'm Ng Jing Ping - aka Brandren<</h1>
+<h1 align="center">Hi <img src="https://github.com/Brandren/Brandren/blob/master/Hi.gif" height="55px" width="55px">, I'm Ng Jing Ping - aka Brandren</h1>
 <h3 align="center">≧◉◡◉≦
 
 <br />Computer Science Student of Swinburne University of Technology Sarawak Campus
@@ -31,7 +31,6 @@
 </p>
 
 <br />
-<br />
 
 ---
 
@@ -48,7 +47,6 @@
 
 ### GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandren&show_icons=true&locale=en&layout=compact" width = "50%" alt="Brandren-top-langs" /></p>
-<p> &#32;</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" width = "50%" alt="Brandren-github-stat" /></p>
 
 
