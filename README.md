@@ -1,4 +1,4 @@
-<h1 align="center"><span>Hi <img src="https://github.com/Brandren/Brandren/blob/master/Hi.gif" height="55px" width="55px">, I'm Ng Jing Ping - aka </span><span style="color:blue;" font-size:160%;>Brandren</span></h1>
+<h1 align="center">Hi <img src="https://github.com/Brandren/Brandren/blob/master/Hi.gif" height="55px" width="55px">, I'm Ng Jing Ping - aka Brandren<</h1>
 <h3 align="center">≧◉◡◉≦
 
 <br />Computer Science Student of Swinburne University of Technology Sarawak Campus
@@ -31,6 +31,8 @@
 </p>
 
 <br />
+<br />
+
 ---
 
 ### Profile Visitors:
@@ -41,11 +43,16 @@
 [![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brandren&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Brandren/github-readme-activity-graph)
 
 <br />
+<br />
+
 ---
 
 ### GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandren&show_icons=true&locale=en&layout=compact" width = "50%" alt="Brandren-top-langs" /></p>
-<p style="padding-top:8%;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" width = "50%" alt="Brandren-github-stat" /></p>
+<br />
+<br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" width = "50%" alt="Brandren-github-stat" /></p>
 
 
 [repo]: https://github.com/Brandren?tab=repositories
