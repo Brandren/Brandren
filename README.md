@@ -43,7 +43,7 @@
 
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brandren&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Brandren/github-readme-activity-graph)
+[![Brandren's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brandren&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Brandren/github-readme-activity-graph)
 
 <br />
 
