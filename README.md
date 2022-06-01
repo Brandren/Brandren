@@ -34,22 +34,3 @@
 </p>
 
 <br />
-
----
-
-### GitHub Stats:
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Brandren.visitor-badge&left_color=blue&right_color=yellow)
-
-<br />
-
-[![Brandren's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brandren&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Brandren/github-readme-activity-graph)
-
-<br />
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandren&show_icons=true&locale=en&layout=compact" width = "50%" alt="Brandren-top-langs" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=Brandren&show_icons=true&locale=en" width = "50%" alt="Brandren-github-stat" /></p>
-
-
-[repo]: https://github.com/Brandren?tab=repositories
