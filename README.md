@@ -6,6 +6,8 @@
 </h3>
 </div>
 
+<div style="float:left;"><a href="https://app.daily.dev/jingping" align="center"><img src="https://api.daily.dev/devcards/115781319be84fe48f189ed5a610be94.png?r=coz" width="100" alt="Ng Jing Ping's Dev Card"/></a></div>
+
 ## I'm a Computer Science Student!!!
 
 - 🔭 I just upload my github repository: [Click Here !!!][repo]!
