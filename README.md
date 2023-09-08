@@ -1,4 +1,4 @@
-<div display="flex">
+<div style="display: flex;">
     <div>
         <h1 align="center">Hi <img src="https://github.com/Brandren/Brandren/blob/master/images/Hi.gif" height="55px" width="55px">, I'm Ng Jing Ping - aka Brandren</h1>
         <h3 align="center">
