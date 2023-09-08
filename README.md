@@ -1,4 +1,4 @@
-<div style="float:left;">
+<div style="float:left; width:20%">
 <h1 align="center">Hi <img src="https://github.com/Brandren/Brandren/blob/master/images/Hi.gif" height="55px" width="55px">, I'm Ng Jing Ping - aka Brandren</h1>
 <h3 align="center">
     ≧◉◡◉≦
