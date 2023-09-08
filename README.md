@@ -4,7 +4,7 @@
 <br />Computer Science Student of Swinburne University of Technology Sarawak Campus
 
 </h3>
-
+<a href="https://app.daily.dev/jingping" align="center"><img src="https://api.daily.dev/devcards/115781319be84fe48f189ed5a610be94.png?r=coz" width="100" alt="Ng Jing Ping's Dev Card"/></a>
 
 ## I'm a Computer Science Student!!!
 
@@ -13,9 +13,6 @@
 - 🥅 2023 Goals: Improve my programming skills
 - ⚡ I’m looking to collaborate with other people
 - 🤖 I'm interest data science, machine learning, deep learning and artificial intelligence
-
-<a href="https://app.daily.dev/jingping" float="left"><img src="https://api.daily.dev/devcards/115781319be84fe48f189ed5a610be94.png?r=coz" width="100" alt="Ng Jing Ping's Dev Card"/></a>
-
 <br />
 
 ### Languages and Tools:
